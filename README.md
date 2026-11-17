@@ -8,7 +8,6 @@ Exploratory analysis of a year of e-commerce sales data in pandas: from merging 
 2. Which city sold the most products?
 3. What time should ads be displayed to maximise the likelihood of a purchase?
 4. Which products are most often sold together?
-5. Which product sold the most, and why?
 
 ## Steps
 
